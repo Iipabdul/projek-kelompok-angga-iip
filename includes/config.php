@@ -3,7 +3,7 @@
 $myHost	= "localhost";
 $myUser	= "root";
 $myPass	= "";
-$myDbs	= "rental_eria";
+$myDbs	= "if0_36798569_rental_eria";
 
 $koneksidb = mysqli_connect( $myHost, $myUser, $myPass, $myDbs);
 if (! $koneksidb) {
